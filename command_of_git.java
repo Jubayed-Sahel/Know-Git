@@ -16,8 +16,8 @@
  * git clone <Link of git repo>              -> to add the repo   -> git clone https://github.com/Jubayed-Sahel/Know-Git.git
  * git status                                -> show status between local system and git repo.
  * git add .                                 -> add all changes 
- * git add <file name>
- * git commit -m <some message> 
+ * git add <file name>                       -> git add index.html
+ * git commit -m "some message"              -> git commit -m "added index.html"
  * 
  * 
  * 
