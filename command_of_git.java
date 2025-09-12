@@ -18,7 +18,7 @@
  * git add .                                 -> add all changes 
  * git add <file name>                       -> git add index.html
  * git commit -m "some message"              -> git commit -m "added index.html"
- * 
+ * git push origin main                      -> Local system to main branch code published
  * 
  * 
  * 
