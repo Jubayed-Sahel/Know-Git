@@ -20,13 +20,17 @@
  * git add .                                 -> add all changes 
  * git add <file name>                       -> git add index.html
  * git commit -m "some message"              -> git commit -m "added index.html"
- * git push origin main                      -> Local system to <main branch> code published
+ * git push origin main                      -> Local system to <main branch> code published / "git push origin feature1" means pushing in feature1. 
  * git push -u origin main                   -> Now for the future we have fixed the origin main, now "git push" means "git push origin main"
  * git branch                                -> To check which branch we are in
  * git branch -M <new branch name>           -> Change the name of the old branch 
  * git checkout <branch name>                -> To go in another branch
  * git checkout -b <New Branch Name>         -> Create a new branch
- * git branch -d <Branch Name>             -> Delete a branch (But first get out of that branch)
+ * git branch -d <Branch Name>               -> Delete a branch (But first get out of that branch)
+ * 
+ * git diff <branch name>                    -> diff between two branches
+ * git merge <branch name>                   -> to merge 2 branches
+ * 
  * 
  * 
  * 
