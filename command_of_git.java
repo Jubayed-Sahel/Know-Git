@@ -21,6 +21,7 @@
  * git add <file name>                       -> git add index.html
  * git commit -m "some message"              -> git commit -m "added index.html"
  * git push origin main                      -> Local system to <main branch> code published / "git push origin feature1" means pushing in feature1. 
+ * git pull origin main                      -> Take the same code from repo <main branch> to Local System
  * git push -u origin main                   -> Now for the future we have fixed the origin main, now "git push" means "git push origin main"
  * git branch                                -> To check which branch we are in
  * git branch -M <new branch name>           -> Change the name of the old branch 
